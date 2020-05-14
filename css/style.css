@@ -1,0 +1,40 @@
+body {
+  background-image: url('https://programathor.com.br/blog/wp-content/uploads/2017/08/background-matrix-lg.jpg');
+  background-size: auto 100vh;
+  font-family: Arial;
+  height: 100vh;
+}
+
+.menu {
+  background-color: #34495E;
+}
+
+.menu li {
+  list-style: none;
+}
+
+.menu ul {
+  display:flex;
+  justify-content: space-around;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.site-title,
+.site-subtitle
+{
+  color: whitesmoke;
+  text-align: center;
+}
+
+.site-subtitle {
+  
+}
+
